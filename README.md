@@ -1,4 +1,4 @@
 # ApnaMehak
 Practice Git Repository
 <br>
-Auhtor: Mehakpreet
+Auhtor: Mehakpreet Kaur
